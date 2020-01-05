@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="387f8c2c-5653-4af6-93c6-b2b9d835dc89" name="Default Changelist" comment="" />
+    <list default="true" id="387f8c2c-5653-4af6-93c6-b2b9d835dc89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articleScraper.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/articleScraper.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="a41da718-6641-468d-808a-a2209d745ca7">
     <option name="files">
       <option value="articleScraper.ipynb" />
@@ -22,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1VMpLCbLGhoiLcBATa9wpjdGFw2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -193,6 +202,7 @@
       <workItem from="1577766520733" duration="2819000" />
       <workItem from="1577815166019" duration="11059000" />
       <workItem from="1578005799766" duration="14261000" />
+      <workItem from="1578186771318" duration="434000" />
     </task>
     <servers />
   </component>
@@ -232,14 +242,14 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1320" height="218" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1577683337453" />
-    <state x="172" y="31" key="SettingsEditor" timestamp="1577819567954">
+    <state x="172" y="31" key="SettingsEditor" timestamp="1578186786137">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="172" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1577819567954" />
-    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1578006639124">
+    <state x="172" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1578186786137" />
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1578186773921">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1578006639124" />
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1578186773921" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1577641613672">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

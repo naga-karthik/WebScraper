@@ -1,0 +1,7 @@
+# files to be ignored
+venv/Economist.txt
+venv/output.json
+venv/TheTimes.txt
+venv/webscraper.py
+venv/parsedata.py
+articles.json
